@@ -3,8 +3,6 @@
 %\VignetteIndexEntry{Shiny Testing}
 -->
 
-<xmp theme="cerulean" style="display:none;">
-
 ```{r, echo = FALSE, message = FALSE}
 library(knitr)
 library(RSelenium)
